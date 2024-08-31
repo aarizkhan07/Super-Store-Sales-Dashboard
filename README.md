@@ -1,1 +1,2 @@
 # Super-Store-Sales-Dashboard
+This repository contains a Power BI project focused on analyzing sales data for a fictional Super Store. The dashboard provides insights into sales performance across various categories, sub-categories, regions, and time periods. Key metrics such as total sales, profit, and quantity sold are visualized, along with breakdowns by shipping mode, payment mode, and customer segment. The dashboard also includes a 15-day sales forecast.
